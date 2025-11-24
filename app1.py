@@ -194,9 +194,9 @@ def download_output(caps, tags):
 # ----------------------------------------------------------
 
 def main():
-    st.set_page_config(page_title="AI Social Media Generator", page_icon="📱", layout="wide")
+    st.set_page_config(page_title="AI Social Media Assistant", page_icon="📱", layout="wide")
 
-    st.title("📱 AI Social Media Generator (Emotion Dataset)")
+    st.title("📱 AI Social Media Assistant ")
     st.caption("Caption Generator • Hashtags • Score • Dataset Explorer")
 
     df = load_data()
