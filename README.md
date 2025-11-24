@@ -50,9 +50,4 @@ Explore dataset with:
 - Row preview  
 - Category distribution charts  
 
----
-
-## 📁 Dataset Structure
-
-Your dataset must contain these columns:
 
